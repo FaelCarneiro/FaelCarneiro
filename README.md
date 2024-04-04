@@ -1,7 +1,7 @@
 <h1 align="center">Olá eu sou o Rafael Carneiro</h1>
 <h3 align="center">Estudante de Ciência da Computação na Estácio</h3>
 
-- 🌱 Atualmente estou aprendendo **Python, Machine Learning, MySQL**
+- 🌱 Atualmente estou aprofundando em **Python, Machine Learning, MySQL**
 
 - 💬 Também tenho conhecimento em **React, JS, JAVA, C#**-
 
