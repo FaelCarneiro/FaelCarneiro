@@ -5,7 +5,7 @@
 
 - 💬 Também tenho conhecimento em **React, JS, JAVA, C#**-
 
->>>>>> 🔭 A procura do primeiro estágio 🔭<<<<<<
+>>> 🔭 A procura do primeiro estágio 🔭
 
 - 📫 Como me contatar **rafaelcarneiro.work@gmail.com**
 
