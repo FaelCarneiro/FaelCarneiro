@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprofundando em **Python, Machine Learning, MySQL**
 
-- 💬 Também tenho conhecimento em **React, JS, JAVA, C#**-
+- 💬 Também tenho conhecimento acadêmico em **React, JS, JAVA, C#**-
 
 > 🔭 A procura do primeiro estágio 🔭
 
